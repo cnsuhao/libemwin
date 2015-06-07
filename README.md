@@ -2,4 +2,4 @@
 
 ## emwin for SylixOS, RealCoder project.
 
-Can Only used for NXP chip!
+## Can Only used for NXP chip! ##
